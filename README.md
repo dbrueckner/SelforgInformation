@@ -21,7 +21,7 @@ Developed in Python 3.6. Dependencies:
 
 -----------------------------------------------------------------------
 
-###Contents:
+Contents:
 
 **simulation_XXX.py**: front-end file for the three example models:
 XXX = LIS: lateral inhibition signaling
