@@ -4,7 +4,8 @@
 **Reference**: 
     David Brückner and Gašper Tkačik, 
     "*Information content and optimization of self-organized developmental systems*"
-    https://arxiv.org/abs/2312.05895
+    PNAS 121 (23) e2322326121
+    https://www.pnas.org/doi/10.1073/pnas.2322326121
 
 **Contact**: david.brueckner@ist.ac.at
 
