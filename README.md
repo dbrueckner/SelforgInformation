@@ -24,10 +24,16 @@ Developed in Python 3.6. Dependencies:
 
 Contents:
 
-**simulation_XXX.py**: front-end file for the three example models: \n
+**simulation_XXX.py**: front-end file for the three example models:
+
 XXX = LIS: lateral inhibition signaling
+
 XXX = proportions: cell-type proportioning
+
 XXX = RD: reaction-diffusion dynamics
+
+XXX = RD_normalizer: normalizer circuit initialized with numerically generated exponential profiles with extrinsic amplitude fluctuations
+
 Each examples demonstrates how simulations are setup, run, optimized, evaluated using information terms, and plotted.
 
 **fns_sim_XXX.py**: simulation code for each of the three example models.
